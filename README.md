@@ -8,7 +8,7 @@ Para usar se debe ejecutar el script directamente sin pasar ningún tipo de par�
 Se listaran las redes wifi disponibles, seleccione una red e ingrese la contraseña si es solicitada.  
 De estar almacenada la red ingresara directamente.
 
-Actualizaciones pendientes, gestión de error si la contraseña fue modificada y conexión a redes sin contraseña.
+`Actualizaciones pendientes, gestión de error si la contraseña fue modificada y conexión a redes sin contraseña.`
 
 ## Modulo de Polybar
 En el siguiente modulo podra observar una llamada a `toggle-wifi.sh` es un simple script que habilita y desabilita la targeta wifi.
